@@ -1,0 +1,11 @@
+python-chess
+pygame
+tensorflow
+numpy
+zstandard
+SpeechRecognition
+PyAudio
+# Create the Environment
+# python -m venv venv
+# Activate the Environment
+# .\venv\Scripts\activate
