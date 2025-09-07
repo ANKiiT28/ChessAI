@@ -15,14 +15,22 @@ The project aims to build an artificial intelligence capable of playing chess wi
 
 📂 Project Structure
 📦 Chess AI Project
-│
-├── images/                     # Images for visualizations
-├── Chess_AI_Project.ipynb       # Main Jupyter Notebook (code + explanations)
-├── chess_model_2018_02_fast.h5  # Pre-trained model (Keras/TensorFlow)
-├── engine.py                    # Chess engine logic
-├── main.py                      # Run the Chess AI
-├── prepare_data.py              # Data preprocessing & feature engineering
-└── requirements.txt             # Python dependencies
+
+
+├── images/                       # Images for visualizations
+
+├── Chess_AI_Project.ipynb        # Main Jupyter Notebook (code + explanations)
+
+├── chess_model_2018_02_fast.h5   # Pre-trained model (Keras/TensorFlow)
+
+├── engine.py                     # Chess engine logic
+
+├── main.py                       # Run the Chess AI
+
+├── prepare_data.py               # Data preprocessing & feature engineering
+
+└── requirements.txt              # Python dependencies
+
 
 🛠️ Technologies Used
 
